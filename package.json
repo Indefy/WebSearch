@@ -1,0 +1,14 @@
+{
+  "name": "sass-compile",
+  "version": "1.0.0",
+  "description": "A simple sass compile config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" &amp;&amp; exit 1"
+  },
+  "author": "Adam",
+  "license": "ISC",
+  "dependencies": {
+    "package-json": "^9.0.0"
+  }
+}
